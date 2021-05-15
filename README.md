@@ -1,2 +1,2 @@
-# BST practice
+# BS practice
  Beautiful Soup + Python web scrapping practice
